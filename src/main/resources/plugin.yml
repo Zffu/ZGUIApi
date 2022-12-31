@@ -1,0 +1,6 @@
+name: ZGUIAPI
+version: '${project.version}'
+main: net.zffu.zguiapi.Zguiapi
+authors: [ Zffu ]
+description: ZGUIAPI Is an Api to make Guis simpler
+website: zffu.ml
