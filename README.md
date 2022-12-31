@@ -8,7 +8,7 @@ ZGUIApi is an Api to make Guis in Minecraft.
 You can use it with the versions starting from 1.8 to 1.19
 
 ## How to use
-Before using ZGUIApi you need to download the ZGUIApi [plugin] (https://github.com/Radi0o/ZGUIApi/releases/download/1.0/zgui-api-1.0.jar) and put it in your plugins folder.
+Before using ZGUIApi you need to download the ZGUIApi [plugin](https://github.com/Radi0o/ZGUIApi/releases/download/1.0/zgui-api-1.0.jar) and put it in your plugins folder.
 You need to also add it as a dependency in your `plugin.yml` file like this:
 ``` yml
 depend: [ZGUIApi]
