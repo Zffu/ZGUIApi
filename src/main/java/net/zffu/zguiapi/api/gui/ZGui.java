@@ -28,8 +28,8 @@ public class ZGui {
 
 
 
-        // EVENTS
-        ZGuiAPIPlugin.getInstance().getGUIManager().addZGUI(this);
+        
+       
 
     }
 
